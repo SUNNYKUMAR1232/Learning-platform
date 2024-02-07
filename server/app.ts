@@ -33,6 +33,5 @@ app.all('*', (req: Request, res: Response, next: NextFunction) => {
     next(err);
         });
 
-
 // Error Middleware
 app.use(ErrorMiddleware);

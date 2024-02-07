@@ -1,0 +1,45 @@
+
+> server.js@1.0.0 dev
+> ts-node-dev --respawn --transpile-only  server.ts
+
+[INFO] 22:31:55 ts-node-dev ver. 2.0.0 (using ts-node ver. 10.9.2, typescript ver. 5.3.3)
+Redis Connected
+Server is running on port 5000
+Database connected with ac-3k9n6en-shard-00-02.i70fxqt.mongodb.net
+
+> server.js@1.0.0 dev
+> ts-node-dev --respawn --transpile-only  server.ts
+
+[INFO] 22:35:14 ts-node-dev ver. 2.0.0 (using ts-node ver. 10.9.2, typescript ver. 5.3.3)
+Redis Connected
+Server is running on port 5000
+Database connected with ac-3k9n6en-shard-00-02.i70fxqt.mongodb.net
+
+> server.js@1.0.0 dev
+> ts-node-dev --respawn --transpile-only  server.ts
+
+[INFO] 22:40:12 ts-node-dev ver. 2.0.0 (using ts-node ver. 10.9.2, typescript ver. 5.3.3)
+Redis Connected
+Server is running on port 5000
+Database connected with ac-3k9n6en-shard-00-00.i70fxqt.mongodb.net
+
+> server.js@1.0.0 dev
+> ts-node-dev --respawn --transpile-only  server.ts
+
+[INFO] 22:43:04 ts-node-dev ver. 2.0.0 (using ts-node ver. 10.9.2, typescript ver. 5.3.3)
+Redis Connected
+Server is running on port 5000
+Database connected with ac-3k9n6en-shard-00-02.i70fxqt.mongodb.net
+
+> server.js@1.0.0 dev
+> ts-node-dev --respawn --transpile-only  server.ts
+
+[INFO] 22:45:17 ts-node-dev ver. 2.0.0 (using ts-node ver. 10.9.2, typescript ver. 5.3.3)
+
+> server.js@1.0.0 dev
+> ts-node-dev --respawn --transpile-only  server.ts
+
+[INFO] 22:51:04 ts-node-dev ver. 2.0.0 (using ts-node ver. 10.9.2, typescript ver. 5.3.3)
+Redis Connected
+Server is running on port 5000
+Database connected with ac-3k9n6en-shard-00-02.i70fxqt.mongodb.net
